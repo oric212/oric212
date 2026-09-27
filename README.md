@@ -33,9 +33,3 @@ A Unity territory-capture game inspired by **AirXonix**, with enemies, power-ups
 ## Tech
 
 `C++` `Java` `C#` `Python` `JavaScript` `TypeScript` `SQL` · `Git` `CMake` `SDL2` `Unity` `Tomcat` `JavaFX` `FastAPI`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=oric212&show_icons=true&hide_title=true&hide_rank=true" alt="Ori's GitHub stats" />
-
-</div>
