@@ -20,19 +20,19 @@ A multi-user prediction market with **LMSR** and **order book** trading, a REST 
 
 `Java` `Tomcat` `REST` `JavaFX` `JavaScript`
 
+### [Fridge9000](https://github.com/netanel770/Fridge9000)
+A smart-fridge platform combining computer vision, inventory management, OCR, freshness analysis, and a human-in-the-loop ML workflow for improving product detection.
+
+`Python` `FastAPI` `React Native` `TypeScript` `YOLO` `PostgreSQL`
+
 ### [SpaceXonix](https://github.com/idanyossi/SpaceXonix)
 A Unity territory-capture game inspired by **AirXonix**, with enemies, power-ups, stage mechanics, and PC/Android controls.
 
 `C#` `Unity`
 
-### [Weather Terminal App](https://github.com/oric212/Weather-Terminal-App)
-A small Python terminal app for checking current weather using external APIs.
-
-`Python` `REST APIs`
-
 ## Tech
 
-`C++` `Java` `C#` `Python` `JavaScript` `SQL` · `Git` `CMake` `SDL2` `Unity` `Tomcat` `JavaFX`
+`C++` `Java` `C#` `Python` `JavaScript` `TypeScript` `SQL` · `Git` `CMake` `SDL2` `Unity` `Tomcat` `JavaFX` `FastAPI`
 
 <div align="center">
 
