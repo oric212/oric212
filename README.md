@@ -4,79 +4,35 @@
 
 **Computer Science student · Software Developer**
 
-I like building things that let me understand how software actually works — from client/server systems and game development to modernizing old C++ code and experimenting with reverse engineering.
-
-[![GitHub](https://img.shields.io/badge/GitHub-oric212-181717?logo=github)](https://github.com/oric212)
+I like building projects that help me understand how software works — especially backend systems, games, legacy code, and lower-level development.
 
 </div>
 
-## About me
-
-I'm a Computer Science student at **The Academic College of Tel Aviv-Yaffo (MTA)**.
-
-A lot of my projects start because I want to understand something better. Sometimes that means building a system from scratch, and sometimes it means taking an old project apart, figuring out how it works, and trying to make it work properly on modern hardware.
-
-I'm mainly interested in **software development, backend/system programming, game development, and lower-level projects** where there is something interesting to investigate rather than just another CRUD app.
-
-I also use AI tools as part of my development workflow, but I try to keep the process human-in-the-loop: planning the work, understanding the important decisions, testing the result, finding problems, and correcting them when needed.
-
-## Featured projects
+## Projects
 
 ### [BlipBlop-Modern](https://github.com/oric212/BlipBlop-Modern)
+Modernizing the original **Blip & Blop** for modern Windows while keeping the original game intact.
 
-A modernization/source-port project for the original **Blip & Blop**.
-
-I took an old C++ game codebase and worked on making it behave like a proper modern Windows application without turning it into a remake. The project includes an x64 build, modern SDL2 display handling, controller support, executable-relative resources, safer persistence, audio compatibility work, parser hardening, and a standalone Windows release.
-
-**C++ · SDL2 · CMake · Windows · Legacy code modernization**
-
----
+`C++` `SDL2` `CMake` `Windows`
 
 ### [GuessMarket](https://github.com/oric212/GuessMarket)
+A multi-user prediction market with **LMSR** and **order book** trading, a REST server, JavaFX client, and web client.
 
-A multi-user prediction-market system with two different trading mechanisms: **LMSR automated market making** and a **two-sided order book**.
-
-The project grew into a full client/server system with a shared Java domain layer, Tomcat REST server, JavaFX desktop client, and a browser client. It includes user accounts, holdings, market-maker operations, order matching, event settlement, XML validation, concurrency handling, and live client updates.
-
-**Java · REST · Tomcat · JavaFX · JavaScript · Vite**
-
----
+`Java` `Tomcat` `REST` `JavaFX` `JavaScript`
 
 ### [SpaceXonix](https://github.com/idanyossi/SpaceXonix)
+A Unity territory-capture game inspired by **AirXonix**, with enemies, power-ups, stage mechanics, and PC/Android controls.
 
-A Unity game project inspired by **AirXonix**, built around capturing territory while avoiding enemies that can hit the player or the active trail.
-
-The project combines grid/territory systems, multiple enemy behaviours, power-ups, stage mechanics, scoring, effects, menus, and both PC and Android-oriented controls.
-
-**C# · Unity · Game development · Design patterns**
-
----
+`C#` `Unity`
 
 ### [Weather Terminal App](https://github.com/oric212/Weather-Terminal-App)
+A small Python terminal app for checking current weather using external APIs.
 
-A small Python terminal application that detects the user's location, retrieves current weather data, and can look up weather for cities around the world.
+`Python` `REST APIs`
 
-I built it mainly as a straightforward project for working with external APIs and presenting the result in a simple terminal interface.
+## Tech
 
-**Python · REST APIs**
-
-## Technologies I've worked with
-
-**Languages**
-
-`C++` `Java` `C#` `Python` `JavaScript` `SQL`
-
-**Tools / Frameworks**
-
-`Git` `CMake` `SDL2` `Unity` `Tomcat` `JavaFX` `Vite` `REST APIs`
-
-## What I'm working on
-
-Right now I'm mainly interested in getting better at the parts of development that are harder to learn by only writing new application code: understanding existing codebases, debugging, architecture, systems programming, game internals, and reverse engineering.
-
-I still build higher-level applications as well, but I prefer projects where I come out of them understanding something I didn't understand before.
-
----
+`C++` `Java` `C#` `Python` `JavaScript` `SQL` · `Git` `CMake` `SDL2` `Unity` `Tomcat` `JavaFX`
 
 <div align="center">
 
